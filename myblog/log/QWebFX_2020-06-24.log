@@ -1,0 +1,613 @@
+2020-06-24 14:40:05,541 [django.utils.autoreload:354] [autoreload:tick] [DEBUG] File H:\myworkspace\myblog\myblog\settings.py previous mtime: 1592980727.767018, current mtime: 1592980804.650213
+2020-06-24 14:40:05,541 [django.utils.autoreload:328] [autoreload:notify_file_changed] [DEBUG] H:\myworkspace\myblog\myblog\settings.py notified as changed. Signal results: [(<function translation_file_changed at 0x000001EA80B0B620>, None)].
+2020-06-24 14:40:05,542 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:40:07,864 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:40:25,514 [django.server:154] [basehttp:log_message] [WARNING] "GET /index.html HTTP/1.1" 404 2071
+2020-06-24 14:40:39,644 [django.server:154] [basehttp:log_message] [WARNING] "GET /c.html HTTP/1.1" 404 2059
+2020-06-24 14:40:49,078 [django.server:154] [basehttp:log_message] [INFO] "GET / HTTP/1.1" 200 14968
+2020-06-24 14:40:49,152 [django.server:154] [basehttp:log_message] [WARNING] "GET /js/nav.js HTTP/1.1" 404 2068
+2020-06-24 14:40:49,170 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a1.jpg HTTP/1.1" 404 2080
+2020-06-24 14:40:49,178 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a2.jpg HTTP/1.1" 404 2080
+2020-06-24 14:40:49,181 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a3.jpg HTTP/1.1" 404 2080
+2020-06-24 14:40:49,182 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a4.jpg HTTP/1.1" 404 2080
+2020-06-24 14:40:50,235 [django.server:154] [basehttp:log_message] [WARNING] "GET /js/nav.js HTTP/1.1" 404 2068
+2020-06-24 14:46:29,926 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:46:32,007 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:46:54,571 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:46:56,695 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:47:03,776 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:47:06,106 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:48:03,593 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:48:05,842 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:48:21,390 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 14:48:23,759 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:51:21,721 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 14:51:23,804 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:54:25,210 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\views.py changed, reloading.
+2020-06-24 14:54:27,360 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:54:51,021 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\views.py changed, reloading.
+2020-06-24 14:54:53,289 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:57:17,662 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 14:57:20,197 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 14:58:14,978 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 14:58:17,479 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:04:59,753 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:07:39,564 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 15:07:42,639 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:11:19,256 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 15:11:21,712 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:11:55,819 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:18:06,902 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:21:20,349 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 15:21:23,382 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:21:25,397 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 15:21:27,977 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:21:48,219 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 15:21:50,340 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:23:05,199 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\views.py changed, reloading.
+2020-06-24 15:23:07,498 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:24:21,496 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\views.py changed, reloading.
+2020-06-24 15:24:23,843 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:52:29,122 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 15:52:29,447 [django.server:154] [basehttp:log_message] [INFO] "GET /admin HTTP/1.1" 301 0
+2020-06-24 15:52:29,467 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 302 0
+2020-06-24 15:52:29,521 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+2020-06-24 15:52:29,557 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2020-06-24 15:52:29,558 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2020-06-24 15:52:29,570 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+2020-06-24 15:52:29,691 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2020-06-24 15:52:29,744 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2020-06-24 15:52:29,747 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2020-06-24 15:52:50,089 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2020-06-24 15:52:50,268 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 2645
+2020-06-24 15:52:50,288 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2020-06-24 15:52:50,314 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2020-06-24 15:52:50,315 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2020-06-24 15:52:50,379 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2020-06-24 15:52:57,782 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/auth/group/ HTTP/1.1" 200 3521
+2020-06-24 15:52:57,805 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+2020-06-24 15:52:57,818 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 15:52:57,846 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2020-06-24 15:52:57,855 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2020-06-24 15:52:57,858 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2020-06-24 15:52:57,860 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 200 7099
+2020-06-24 15:52:57,862 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2020-06-24 15:52:57,866 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2020-06-24 15:52:57,873 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2020-06-24 15:52:57,873 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2020-06-24 15:52:57,874 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271817
+2020-06-24 15:52:57,980 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2020-06-24 15:53:00,059 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 2645
+2020-06-24 16:09:18,112 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:09:20,086 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:09:44,952 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:09:47,106 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:15:56,158 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:15:58,454 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:16:34,729 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:17:27,156 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:17:29,132 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:21:36,062 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:21:38,359 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:24:21,169 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:24:23,562 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:26:37,129 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:26:39,157 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:26:54,175 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:26:56,455 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:28:16,291 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:28:18,356 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:31:03,586 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:31:05,601 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:31:12,291 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:31:14,125 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:31:23,235 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:31:25,164 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:32:13,827 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:32:15,855 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:33:12,486 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:33:14,394 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:34:40,263 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:34:42,251 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:34:53,653 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:34:55,711 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:49:46,720 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:50:15,953 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:50:17,829 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:50:50,960 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:50:53,217 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:51:59,182 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:52:01,186 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:52:40,864 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:52:42,738 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:53:37,780 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:53:39,653 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 16:54:09,073 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 16:54:11,201 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:01:40,945 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 17:01:43,032 [django.utils.autoreload:%(lineno)d] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:04:20,751 [django.utils.autoreload:%(lineno)d] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 17:04:45,882 [django.utils.autoreload:autoreload.py597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:05:31,070 [django.utils.autoreload:autoreload.py217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 17:05:33,075 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:11:50,317 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\manage.py changed, reloading.
+2020-06-24 17:11:52,713 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:13:07,786 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:13:09,720 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:13:46,107 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:13:48,108 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:14:41,653 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:14:43,507 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:15:28,766 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:15:30,779 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:16:01,442 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:16:03,733 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:16:31,880 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:16:33,858 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:16:47,652 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:16:49,663 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:17:25,144 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:17:27,160 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:35:48,508 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:35:50,678 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 17:40:43,104 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 17:40:43,209 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2020-06-24 17:40:43,212 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2020-06-24 17:40:43,215 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2020-06-24 17:40:43,225 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2020-06-24 17:40:43,236 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2020-06-24 17:40:43,241 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2020-06-24 17:40:43,250 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2020-06-24 17:40:43,251 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2020-06-24 17:40:43,253 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2020-06-24 17:40:47,781 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/add/ HTTP/1.1" 200 5037
+2020-06-24 17:40:47,800 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2020-06-24 17:40:47,815 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2020-06-24 17:40:47,838 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 17:40:47,845 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,845 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,847 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2020-06-24 17:40:47,848 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,848 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,861 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,862 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,864 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+2020-06-24 17:40:47,866 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2020-06-24 17:40:47,879 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2020-06-24 17:40:53,230 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 17:40:58,146 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/auth/group/ HTTP/1.1" 200 3521
+2020-06-24 17:40:58,172 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+2020-06-24 17:40:58,175 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+2020-06-24 17:40:58,189 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 17:40:58,252 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2020-06-24 17:41:00,030 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 17:41:13,723 [django.server:154] [basehttp:log_message] [INFO] "GET / HTTP/1.1" 200 14968
+2020-06-24 17:41:13,766 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/jquery.min.js HTTP/1.1" 304 0
+2020-06-24 17:41:13,769 [django.server:154] [basehttp:log_message] [INFO] "GET /static/css/base.css HTTP/1.1" 304 0
+2020-06-24 17:41:13,771 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/sliders.js HTTP/1.1" 304 0
+2020-06-24 17:41:13,772 [django.server:154] [basehttp:log_message] [INFO] "GET /static/css/index.css HTTP/1.1" 304 0
+2020-06-24 17:41:13,782 [django.server:154] [basehttp:log_message] [WARNING] "GET /js/nav.js HTTP/1.1" 404 2068
+2020-06-24 17:41:13,783 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a1.jpg HTTP/1.1" 404 2080
+2020-06-24 17:41:13,799 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a2.jpg HTTP/1.1" 404 2080
+2020-06-24 17:41:13,849 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/newsbg01.png HTTP/1.1" 304 0
+2020-06-24 17:41:13,849 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/slide-bg.png HTTP/1.1" 304 0
+2020-06-24 17:41:13,850 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/newsbg04.png HTTP/1.1" 304 0
+2020-06-24 17:41:13,868 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a4.jpg HTTP/1.1" 404 2080
+2020-06-24 17:41:13,868 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/newsbg02.png HTTP/1.1" 304 0
+2020-06-24 17:41:13,869 [django.server:154] [basehttp:log_message] [WARNING] "GET /images/a3.jpg HTTP/1.1" 404 2080
+2020-06-24 17:41:13,871 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/newsbg03.png HTTP/1.1" 304 0
+2020-06-24 17:41:13,871 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/ico_05_1.jpg HTTP/1.1" 304 0
+2020-06-24 17:41:13,871 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/ico_06_1.jpg HTTP/1.1" 304 0
+2020-06-24 17:41:13,880 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/ico_04_1.jpg HTTP/1.1" 304 0
+2020-06-24 17:41:13,882 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/ico_07_1.jpg HTTP/1.1" 304 0
+2020-06-24 17:41:14,032 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/icons.png HTTP/1.1" 304 0
+2020-06-24 17:41:14,032 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/datepng.png HTTP/1.1" 304 0
+2020-06-24 17:41:14,033 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/ph2.png HTTP/1.1" 304 0
+2020-06-24 17:41:14,088 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/silde-nav.png HTTP/1.1" 304 0
+2020-06-24 17:44:16,368 [django.server:154] [basehttp:log_message] [INFO] "GET / HTTP/1.1" 200 15008
+2020-06-24 17:44:16,397 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/nav.js HTTP/1.1" 304 0
+2020-06-24 17:44:16,399 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/a2.jpg HTTP/1.1" 304 0
+2020-06-24 17:44:16,401 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/a1.jpg HTTP/1.1" 304 0
+2020-06-24 17:44:16,463 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/'images/a3.jpg' HTTP/1.1" 404 1693
+2020-06-24 17:44:16,472 [django.server:154] [basehttp:log_message] [INFO] "GET /static/images/a4.jpg HTTP/1.1" 304 0
+2020-06-24 17:45:06,548 [django.server:154] [basehttp:log_message] [WARNING] "GET /index.html HTTP/1.1" 404 2071
+2020-06-24 17:47:52,529 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 17:50:37,939 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 17:50:40,048 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:37:12,070 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 18:37:14,589 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:45:21,503 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 18:45:24,516 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:48:57,885 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 18:48:57,917 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2020-06-24 18:48:57,917 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2020-06-24 18:48:57,935 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2020-06-24 18:48:57,938 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2020-06-24 18:48:58,031 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2020-06-24 18:48:58,032 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2020-06-24 18:48:58,049 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2020-06-24 18:48:58,065 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2020-06-24 18:48:58,083 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2020-06-24 18:49:00,876 [django.server:154] [basehttp:log_message] [ERROR] "GET /admin/blog/article/add/ HTTP/1.1" 500 140815
+2020-06-24 18:50:26,092 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 18:50:28,225 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:51:44,052 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 18:51:46,490 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:54:07,204 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 18:54:09,257 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:54:14,224 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9391
+2020-06-24 18:54:14,275 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/collapse.js HTTP/1.1" 200 2239
+2020-06-24 18:54:14,276 [django.server:154] [basehttp:log_message] [INFO] "GET /static/kindeditor/kindeditor-all-min.js HTTP/1.1" 200 186001
+2020-06-24 18:54:14,306 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2020-06-24 18:54:14,336 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 18:54:14,337 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1696
+2020-06-24 18:54:14,345 [django.server:154] [basehttp:log_message] [INFO] "GET /static/kindeditor/config.js HTTP/1.1" 200 170
+2020-06-24 18:54:14,351 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,353 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,364 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,365 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,373 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,383 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2020-06-24 18:54:14,385 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,386 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,387 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,421 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,425 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2020-06-24 18:54:14,504 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1696
+2020-06-24 18:54:14,639 [django.server:154] [basehttp:log_message] [INFO] "GET /static/kindeditor/themes/default/default.css HTTP/1.1" 200 20773
+2020-06-24 18:57:10,523 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 18:57:15,242 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 18:57:15,284 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 18:57:15,296 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/kindeditor-all-min.js HTTP/1.1" 200 186001
+2020-06-24 18:57:15,341 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 18:57:15,347 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 170
+2020-06-24 18:57:15,435 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 18:57:15,591 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/themes/default/default.css HTTP/1.1" 200 20773
+2020-06-24 19:40:01,575 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:40:01,606 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2020-06-24 19:40:01,616 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2020-06-24 19:40:01,643 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:40:01,645 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2020-06-24 19:40:01,656 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,658 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,669 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2020-06-24 19:40:01,670 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 183
+2020-06-24 19:40:01,676 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,682 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,686 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2020-06-24 19:40:01,701 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,706 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,708 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,712 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/collapse.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,731 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2020-06-24 19:40:01,733 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,739 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2020-06-24 19:40:01,758 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:40:01,852 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,852 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2020-06-24 19:40:01,982 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2020-06-24 19:40:01,984 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2020-06-24 19:40:02,002 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2020-06-24 19:40:02,203 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/themes/default/default.png HTTP/1.1" 200 8299
+2020-06-24 19:40:23,174 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:40:23,232 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:40:23,238 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 183
+2020-06-24 19:40:23,241 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:40:23,349 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:40:40,720 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:40:40,800 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:40:40,803 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:40:40,805 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 183
+2020-06-24 19:40:40,892 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:41:36,080 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:41:36,127 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:41:36,151 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:41:36,175 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 183
+2020-06-24 19:41:36,251 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:14,543 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/add/ HTTP/1.1" 200 37049
+2020-06-24 19:45:14,579 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:14,588 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:45:14,611 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:45:14,710 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:32,227 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:45:32,285 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:35,309 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 19:45:38,929 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 3877
+2020-06-24 19:45:38,952 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+2020-06-24 19:45:38,971 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:45:38,987 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:39,005 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:45:39,144 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2020-06-24 19:45:42,347 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 19:45:49,968 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:45:50,024 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:45:50,029 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:50,158 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:52,193 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 19:45:53,744 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 3877
+2020-06-24 19:45:53,789 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:45:53,801 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:45:58,949 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 19:46:04,870 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:46:04,941 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:46:04,944 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:46:04,968 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:46:05,061 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:46:53,941 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/add/ HTTP/1.1" 200 32253
+2020-06-24 19:46:53,993 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:46:53,998 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:46:54,026 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:46:54,095 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:47:26,691 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9400
+2020-06-24 19:47:26,726 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:47:30,282 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 5411
+2020-06-24 19:47:33,778 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/ HTTP/1.1" 200 3997
+2020-06-24 19:47:33,812 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:47:53,149 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+2020-06-24 19:47:53,289 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/ HTTP/1.1" 200 5208
+2020-06-24 19:47:53,331 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+2020-06-24 19:47:53,341 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:47:53,460 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2020-06-24 19:48:08,335 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/ HTTP/1.1" 200 3997
+2020-06-24 19:48:11,582 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+2020-06-24 19:48:11,625 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/ HTTP/1.1" 200 4224
+2020-06-24 19:48:11,694 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:48:20,003 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+2020-06-24 19:48:20,048 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/ HTTP/1.1" 200 4224
+2020-06-24 19:48:20,086 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:48:24,237 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/ HTTP/1.1" 200 3997
+2020-06-24 19:48:31,624 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 6335
+2020-06-24 19:48:31,673 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2020-06-24 19:48:35,760 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9550
+2020-06-24 19:48:35,798 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:48:35,820 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:48:35,838 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:49:53,429 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/tag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3016
+2020-06-24 19:49:53,474 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:50:00,600 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/tag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 369
+2020-06-24 19:50:00,616 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/popup_response.js HTTP/1.1" 200 569
+2020-06-24 19:50:33,265 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/add/ HTTP/1.1" 200 34273
+2020-06-24 19:50:33,341 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:50:33,344 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:50:33,349 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 19:50:33,414 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:50:59,399 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/add/ HTTP/1.1" 302 0
+2020-06-24 19:50:59,533 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 6079
+2020-06-24 19:50:59,572 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:50:59,584 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:50:59,674 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 19:51:11,445 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 6917
+2020-06-24 19:51:19,631 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/ HTTP/1.1" 200 5513
+2020-06-24 19:51:19,676 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:51:45,247 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/2/change/ HTTP/1.1" 200 4240
+2020-06-24 19:51:45,303 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:51:47,524 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/2/delete/ HTTP/1.1" 200 3492
+2020-06-24 19:51:47,551 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/cancel.js HTTP/1.1" 200 409
+2020-06-24 19:51:51,793 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/2/change/ HTTP/1.1" 200 4240
+2020-06-24 19:51:53,599 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/ HTTP/1.1" 200 5513
+2020-06-24 19:51:56,259 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/1/change/ HTTP/1.1" 200 4240
+2020-06-24 19:51:56,293 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:51:57,523 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/1/delete/ HTTP/1.1" 200 3241
+2020-06-24 19:52:02,730 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/category/1/delete/ HTTP/1.1" 302 0
+2020-06-24 19:52:02,801 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/ HTTP/1.1" 200 5451
+2020-06-24 19:52:02,883 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:52:06,838 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/1/delete/ HTTP/1.1" 302 0
+2020-06-24 19:52:06,890 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 7335
+2020-06-24 19:52:06,930 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+2020-06-24 19:52:06,941 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+2020-06-24 19:52:10,945 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/tag/add/ HTTP/1.1" 200 3977
+2020-06-24 19:52:11,050 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:52:14,512 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 7172
+2020-06-24 19:52:16,054 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/tag/ HTTP/1.1" 200 5000
+2020-06-24 19:52:16,111 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:52:19,118 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 7172
+2020-06-24 19:52:21,060 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/ HTTP/1.1" 200 5758
+2020-06-24 19:52:21,093 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:52:23,426 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 7172
+2020-06-24 19:52:24,836 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 3500
+2020-06-24 19:52:24,870 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:52:31,445 [django.server:154] [basehttp:log_message] [ERROR] "GET /admin/blog/comment/add/ HTTP/1.1" 500 140382
+2020-06-24 19:53:48,039 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 19:53:50,240 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 19:53:53,272 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/add/ HTTP/1.1" 200 3980
+2020-06-24 19:53:53,361 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:54:13,035 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/comment/add/ HTTP/1.1" 302 0
+2020-06-24 19:54:13,098 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 4899
+2020-06-24 19:54:13,165 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:54:17,260 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/1/change/ HTTP/1.1" 200 4233
+2020-06-24 19:54:17,293 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:54:54,714 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 19:54:56,740 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 19:55:29,974 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/1/delete/ HTTP/1.1" 200 3234
+2020-06-24 19:55:36,932 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/comment/1/delete/ HTTP/1.1" 302 0
+2020-06-24 19:55:36,999 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 3659
+2020-06-24 19:55:37,035 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:55:39,391 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/add/ HTTP/1.1" 200 3980
+2020-06-24 19:55:39,435 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:55:43,701 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/add/ HTTP/1.1" 200 3980
+2020-06-24 19:55:43,752 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:56:27,818 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 19:56:29,880 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 19:56:35,131 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/add/ HTTP/1.1" 200 4485
+2020-06-24 19:56:35,179 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:57:57,599 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/comment/add/ HTTP/1.1" 302 0
+2020-06-24 19:57:57,663 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 4899
+2020-06-24 19:57:57,722 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:58:01,435 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/2/change/ HTTP/1.1" 200 4793
+2020-06-24 19:58:01,472 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:58:03,362 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 4708
+2020-06-24 19:58:04,218 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/add/ HTTP/1.1" 200 4485
+2020-06-24 19:58:06,718 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 4708
+2020-06-24 19:58:07,451 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/1/delete/ HTTP/1.1" 302 0
+2020-06-24 19:58:07,494 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 8179
+2020-06-24 19:58:26,884 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/ad/add/ HTTP/1.1" 200 3977
+2020-06-24 19:58:26,936 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 19:59:34,846 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 19:59:36,943 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 19:59:47,051 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 19:59:49,108 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:05:32,462 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/ad/add/ HTTP/1.1" 200 4486
+2020-06-24 20:05:32,518 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:05:35,266 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/ad/add/ HTTP/1.1" 200 4486
+2020-06-24 20:05:35,312 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:05:37,273 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 8016
+2020-06-24 20:05:40,703 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/ad/ HTTP/1.1" 200 3796
+2020-06-24 20:05:40,746 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:06:04,058 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 8016
+2020-06-24 20:06:08,205 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/ HTTP/1.1" 200 4708
+2020-06-24 20:06:08,240 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:06:10,692 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/?q= HTTP/1.1" 200 4771
+2020-06-24 20:06:10,731 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:06:18,105 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/2/change/?_changelist_filters=q%3D HTTP/1.1" 200 4868
+2020-06-24 20:06:18,146 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:07:10,368 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 20:07:13,068 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:07:18,140 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/comment/2/change/?_changelist_filters=q%3D HTTP/1.1" 200 5121
+2020-06-24 20:07:18,213 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 20:07:18,233 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 20:07:18,236 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 20:07:18,328 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 20:28:54,577 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\settings.py changed, reloading.
+2020-06-24 20:28:57,047 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:30:43,902 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\urls.py changed, reloading.
+2020-06-24 20:30:46,853 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:35:40,696 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\urls.py changed, reloading.
+2020-06-24 20:35:42,806 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:37:26,954 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 20:55:23,369 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:04:22,345 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:10:26,422 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:10:57,923 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\urls.py changed, reloading.
+2020-06-24 21:11:00,050 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:16:03,753 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:20:33,848 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\urls.py changed, reloading.
+2020-06-24 21:20:36,538 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:26:18,389 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 8016
+2020-06-24 21:26:18,438 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2020-06-24 21:26:18,444 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2020-06-24 21:26:18,483 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2020-06-24 21:26:18,564 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2020-06-24 21:26:18,601 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2020-06-24 21:26:18,606 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2020-06-24 21:26:18,612 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+2020-06-24 21:26:18,782 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2020-06-24 21:26:18,783 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2020-06-24 21:26:18,784 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2020-06-24 21:26:22,211 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/add/ HTTP/1.1" 200 5037
+2020-06-24 21:26:22,245 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2020-06-24 21:26:22,275 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,277 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,288 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:26:22,295 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,296 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,304 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2020-06-24 21:26:22,305 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,311 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,318 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,347 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,359 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2020-06-24 21:26:22,370 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2020-06-24 21:35:12,891 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\admin.py changed, reloading.
+2020-06-24 21:35:15,233 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 21:35:21,598 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/add/ HTTP/1.1" 200 16174
+2020-06-24 21:35:21,665 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+2020-06-24 21:35:21,676 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20218
+2020-06-24 21:35:21,718 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:35:22,009 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+2020-06-24 21:35:22,018 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+2020-06-24 21:41:04,107 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+2020-06-24 21:41:39,335 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/auth/group/add/?_to_field=id&_popup=1 HTTP/1.1" 200 7157
+2020-06-24 21:41:39,366 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12322
+2020-06-24 21:41:39,367 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5753
+2020-06-24 21:41:39,399 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:41:39,524 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+2020-06-24 21:41:39,527 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+2020-06-24 21:41:39,531 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+2020-06-24 21:41:39,535 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+2020-06-24 21:42:04,795 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/auth/group/add/?_to_field=id&_popup=1 HTTP/1.1" 200 373
+2020-06-24 21:42:04,811 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/popup_response.js HTTP/1.1" 304 0
+2020-06-24 21:44:12,439 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/user/add/ HTTP/1.1" 302 0
+2020-06-24 21:44:12,520 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/ HTTP/1.1" 200 6351
+2020-06-24 21:44:12,544 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+2020-06-24 21:44:12,565 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:44:12,651 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2020-06-24 21:44:12,652 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2020-06-24 21:45:15,131 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/1/change/ HTTP/1.1" 200 16895
+2020-06-24 21:45:15,191 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:46:23,602 [django.server:154] [basehttp:log_message] [WARNING] "GET /uploads/avatar/default.png HTTP/1.1" 404 1809
+2020-06-24 21:46:26,292 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/1/change/ HTTP/1.1" 200 16895
+2020-06-24 21:46:44,006 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/user/1/change/ HTTP/1.1" 302 0
+2020-06-24 21:46:44,091 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/ HTTP/1.1" 200 6356
+2020-06-24 21:46:44,170 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 21:59:05,402 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\myblog\urls.py changed, reloading.
+2020-06-24 21:59:07,662 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 22:03:31,594 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 22:03:46,155 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/user/1/change/ HTTP/1.1" 200 17077
+2020-06-24 22:03:51,076 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/ HTTP/1.1" 200 8271
+2020-06-24 22:03:55,215 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 5867
+2020-06-24 22:03:55,273 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:03:55,284 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:03:55,304 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 200 251
+2020-06-24 22:03:55,437 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:03:59,561 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9564
+2020-06-24 22:03:59,611 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:03:59,627 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/collapse.js HTTP/1.1" 304 0
+2020-06-24 22:03:59,685 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 22:03:59,702 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:10:12,130 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/themes/default/background.png HTTP/1.1" 200 1410
+2020-06-24 22:10:12,171 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/plugins/image/images/refresh.png HTTP/1.1" 200 800
+2020-06-24 22:10:12,233 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/plugins/image/images/align_top.gif HTTP/1.1" 200 625
+2020-06-24 22:10:12,242 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/plugins/image/images/align_left.gif HTTP/1.1" 200 639
+2020-06-24 22:10:12,244 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/plugins/image/images/align_right.gif HTTP/1.1" 200 636
+2020-06-24 22:10:25,005 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/themes/common/loading.gif HTTP/1.1" 200 2608
+2020-06-24 22:10:25,045 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+2020-06-24 22:10:25,124 [django.server:154] [basehttp:log_message] [INFO] "GET /uploads/kindeditor/2020/6/72ddc5fe-b624-11ea-9de3-b88198a9f781.jpg HTTP/1.1" 200 22838
+2020-06-24 22:10:48,108 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3031
+2020-06-24 22:10:48,137 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+2020-06-24 22:10:48,137 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2020-06-24 22:10:48,149 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,152 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,154 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,170 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:10:48,171 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2020-06-24 22:10:48,173 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,174 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,185 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,189 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,190 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,191 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,193 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2020-06-24 22:10:48,193 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+2020-06-24 22:10:48,242 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+2020-06-24 22:10:48,319 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2020-06-24 22:10:48,321 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2020-06-24 22:10:48,322 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2020-06-24 22:10:59,924 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 374
+2020-06-24 22:11:21,005 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/tag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3016
+2020-06-24 22:11:21,043 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:11:46,133 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/tag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3016
+2020-06-24 22:11:46,174 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:11:52,005 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/tag/add/?_to_field=id&_popup=1 HTTP/1.1" 200 369
+2020-06-24 22:12:04,384 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/add/ HTTP/1.1" 302 0
+2020-06-24 22:12:04,490 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 6696
+2020-06-24 22:12:04,542 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:12:04,548 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 22:12:04,549 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:12:04,660 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:12:25,795 [django.server:154] [basehttp:log_message] [INFO] "POST /admin/blog/article/ HTTP/1.1" 302 0
+2020-06-24 22:12:25,886 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 6632
+2020-06-24 22:12:25,930 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:12:25,939 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:12:26,038 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:14:45,339 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 22:14:47,466 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2020-06-24 22:14:54,297 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/add/ HTTP/1.1" 200 9612
+2020-06-24 22:14:54,348 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2020-06-24 22:14:54,367 [django.server:154] [basehttp:log_message] [WARNING] "GET /static/js/kindeditor/lang/zh_CN.js HTTP/1.1" 404 1705
+2020-06-24 22:14:54,395 [django.server:154] [basehttp:log_message] [INFO] "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+2020-06-24 22:14:54,412 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2020-06-24 22:14:54,429 [django.server:154] [basehttp:log_message] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2020-06-24 22:15:19,934 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 6506
+2020-06-24 22:15:25,007 [django.server:154] [basehttp:log_message] [INFO] "GET /admin/blog/article/ HTTP/1.1" 200 6506
+2020-06-24 22:43:07,909 [django.utils.autoreload:217] [autoreload:trigger_reload] [INFO] H:\myworkspace\myblog\blog\models.py changed, reloading.
+2020-06-24 22:43:09,893 [django.utils.autoreload:597] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader

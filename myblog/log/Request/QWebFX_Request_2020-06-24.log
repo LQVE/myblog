@@ -1,0 +1,106 @@
+2020-06-24 14:22:44,197 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a1.jpg
+2020-06-24 14:22:44,201 [django.request:228] [log:log_response] [WARNING] Not Found: /js/nav.js
+2020-06-24 14:22:44,205 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a3.jpg
+2020-06-24 14:22:44,211 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a4.jpg
+2020-06-24 14:22:44,215 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a2.jpg
+2020-06-24 14:22:45,646 [django.request:228] [log:log_response] [WARNING] Not Found: /news.html
+2020-06-24 14:23:02,177 [django.request:228] [log:log_response] [WARNING] Not Found: /js/nav.js
+2020-06-24 14:23:02,190 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a1.jpg
+2020-06-24 14:23:02,194 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a2.jpg
+2020-06-24 14:23:02,234 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a4.jpg
+2020-06-24 14:23:02,238 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a3.jpg
+2020-06-24 14:40:25,513 [django.request:228] [log:log_response] [WARNING] Not Found: /index.html
+2020-06-24 14:40:39,643 [django.request:228] [log:log_response] [WARNING] Not Found: /c.html
+2020-06-24 14:40:49,150 [django.request:228] [log:log_response] [WARNING] Not Found: /js/nav.js
+2020-06-24 14:40:49,169 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a1.jpg
+2020-06-24 14:40:49,175 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a2.jpg
+2020-06-24 14:40:49,178 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a3.jpg
+2020-06-24 14:40:49,181 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a4.jpg
+2020-06-24 14:40:50,234 [django.request:228] [log:log_response] [WARNING] Not Found: /js/nav.js
+2020-06-24 17:41:13,776 [django.request:228] [log:log_response] [WARNING] Not Found: /js/nav.js
+2020-06-24 17:41:13,782 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a1.jpg
+2020-06-24 17:41:13,798 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a2.jpg
+2020-06-24 17:41:13,855 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a4.jpg
+2020-06-24 17:41:13,863 [django.request:228] [log:log_response] [WARNING] Not Found: /images/a3.jpg
+2020-06-24 17:45:06,547 [django.request:228] [log:log_response] [WARNING] Not Found: /index.html
+2020-06-24 18:49:00,871 [django.request:228] [log:log_response] [ERROR] Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 705, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "H:\myworkspace\blog\lib\site-packages\django\forms\models.py", line 551, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "H:\myworkspace\blog\lib\site-packages\django\forms\models.py", line 266, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (sesc) specified for Article
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1551, in _changeform_view
+    ModelForm = self.get_form(request, obj, change=not add)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 709, in get_form
+    % (e, self.__class__.__name__)
+django.core.exceptions.FieldError: Unknown field(s) (sesc) specified for Article. Check fields/fieldsets/exclude attributes of class ArticleAdmin.
+2020-06-24 19:52:31,442 [django.request:228] [log:log_response] [ERROR] Internal Server Error: /admin/blog/comment/add/
+Traceback (most recent call last):
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 705, in get_form
+    return modelform_factory(self.model, **defaults)
+  File "H:\myworkspace\blog\lib\site-packages\django\forms\models.py", line 551, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+  File "H:\myworkspace\blog\lib\site-packages\django\forms\models.py", line 266, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (name) specified for Comment
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "H:\myworkspace\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 1551, in _changeform_view
+    ModelForm = self.get_form(request, obj, change=not add)
+  File "H:\myworkspace\blog\lib\site-packages\django\contrib\admin\options.py", line 709, in get_form
+    % (e, self.__class__.__name__)
+django.core.exceptions.FieldError: Unknown field(s) (name) specified for Comment. Check fields/fieldsets/exclude attributes of class CommentAdmin.
+2020-06-24 21:46:23,601 [django.request:228] [log:log_response] [WARNING] Not Found: /uploads/avatar/default.png
