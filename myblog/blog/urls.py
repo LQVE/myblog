@@ -16,20 +16,21 @@ Including another URLconf
 import django
 from django.conf.urls import url
 from django.contrib import admin
-from django.urls import path, include
+from django.urls import path
 from django.conf import settings
 from blog.upload import upload_image
-from django.views.static import serve
-from blog.views import index_views,archive
-
-
+from blog.views import *
 
 urlpatterns = [
-    url(r"^uploads/(?P<path>.*)$", serve, {"document_root": settings.MEDIA_ROOT, }),#
-    path('admin/', admin.site.urls),
-    # url(r"^$", index_views),
-    url(r'^admin/upload/(?P<dir_name>[^/]+)$', upload_image, name='upload_image'),
+
+    url(r"^$", index_views),
     # 归档
-    # url(r'archive/$',archive,name="archive"),
-    url(r'',include("blog.urls")),
+    url(r'archive/$',archive,name="archive"),
+    # 文章
+    url(r'article/$',article,name="article"),
+    url(r'^comment/post/$', comment_post, name='comment_post'),
+    url(r'^logout$', do_logout, name='logout'),
+    url(r'^reg', do_reg, name='reg'),
+    url(r'^login', do_login, name='login'),
+    url(r'^category/$', category, name='category'),
 ]

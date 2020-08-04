@@ -4,7 +4,7 @@ import os
 import sys
 import logging
 
-logger = logging.getLogger("blog.views")
+
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myblog.settings')
@@ -20,10 +20,8 @@ def main():
 
 
 if __name__ == '__main__':
-    try:
-        main()
-    except Exception as e:
-        logger.error(e)
+    main()
+
     # try:
     #     main()
     # except Exception as e;

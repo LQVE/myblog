@@ -54,7 +54,8 @@ class ArticleManager(models.Manager):
         distinct_date_list = []
         date_list = self.values('date_publish')
         for date in date_list:
-            date = date['date_publish'].strftime('%Y/%m文章存档')
+            #time.strftime('%Y{y}%m{m}%d{d} %H{h}%M{f}%S{s}').format(y='年', m='月', d='日', h='时', f='分', s='秒')
+            date = date['date_publish'].strftime('%Y{y}/%m{m}').format(y='年',m='月')+"文章归档"
             if date not in distinct_date_list:
                 distinct_date_list.append(date)
         return distinct_date_list
@@ -70,14 +71,15 @@ class Article(models.Model):
     user = models.ForeignKey(User, verbose_name='用户',on_delete=models.CASCADE)
     category = models.ForeignKey(Category, blank=True, null=True, verbose_name='分类',on_delete=models.CASCADE)
     tag = models.ManyToManyField(Tag, verbose_name='标签')
+
+    # 关联 objects 是自定义的文章Model的管理器ArticleManager
     objects = ArticleManager()
+
 
     class Meta:
         verbose_name = '文章'
         verbose_name_plural = verbose_name
-        ordering = ['-date_publish']
-
-
+        ordering = ['date_publish']
 
     def __str__(self):
         return self.title
@@ -92,6 +94,7 @@ class Comment(models.Model):
     user = models.ForeignKey(User, blank=True, null=True, verbose_name='用户',on_delete=models.CASCADE)
     article = models.ForeignKey(Article, blank=True, null=True, verbose_name='文章',on_delete=models.CASCADE)
     pid = models.ForeignKey('self', blank=True, null=True, verbose_name='父级评论',on_delete=models.CASCADE)
+
 
     class Meta:
         verbose_name = '评论'

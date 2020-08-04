@@ -22,10 +22,10 @@ class ArticleAdmin(admin.ModelAdmin):
         (None, {
             'fields': ('title', 'desc', 'content', 'user', 'category', 'tag', )
         }),
-        ('高级设置', {
-            'classes': ('collapse',),
-            'fields': ('click_count', 'is_recommend',)
-        }),
+        # ('高级设置', {
+        #     'classes': ('collapse',),
+        #     'fields': ('click_count', 'is_recommend',)
+        # }),
     )
 
     class Media:
@@ -40,7 +40,7 @@ class AdAdmin(admin.ModelAdmin):
     list_display = ("title",)
     search_fields = ("title",)
     list_filter = ("title",)
-    fields = ("title","description")
+    fields = ("title","description","image_url",)
     date_hierarchy = "date_publish"
 
 # Tag
@@ -63,7 +63,7 @@ class CategoryAdmin(admin.ModelAdmin):
 class CommentAdmin(admin.ModelAdmin):
     list_display = ("username",)
     search_fields = ("username",)
-    fields = ("username","content")
+    fields = ("username","content","article",)
 
     class Media:
         js = (
